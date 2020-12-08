@@ -2,7 +2,7 @@
 This is for experimenting creating kobo app homescreen with SwiftUI  
 
 # Demo
-![](demo.gif)
+<img src="./demo.gif" width="250" height="500"/>
 
 # Todo
 1/ Add momemtum for snap-carousel
